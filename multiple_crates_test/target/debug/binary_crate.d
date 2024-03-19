@@ -1,0 +1,1 @@
+/home/developer/projects/rust/multiple_crates_test/target/debug/binary_crate: /home/developer/projects/rust/multiple_crates_test/binary_crate/src/main.rs /home/developer/projects/rust/multiple_crates_test/lib_crate/src/lib.rs

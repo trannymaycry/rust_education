@@ -1,0 +1,1 @@
+/home/developer/projects/rust/filrust/target/debug/filrust: /home/developer/projects/rust/filrust/src/actors/miner.rs /home/developer/projects/rust/filrust/src/actors/node.rs /home/developer/projects/rust/filrust/src/actors.rs /home/developer/projects/rust/filrust/src/lib.rs /home/developer/projects/rust/filrust/src/main.rs

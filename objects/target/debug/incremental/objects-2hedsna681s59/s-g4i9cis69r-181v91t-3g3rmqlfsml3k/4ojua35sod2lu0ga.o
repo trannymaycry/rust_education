@@ -1,0 +1,179 @@
+র্মাতা এখনও সাইন আপ করেন নি।",
+    "description": ""
+  },
+  "pendingTipTitleRegistered": {
+    "message": "এই নির্মাতাটি বর্তমানে আপনার ওয়ালেট থেকে কোনও টিপ পাওয়ার জন্য কনফিগার করা নেই।",
+    "description": ""
+  },
+  "platformPublisherTitle": {
+    "message": "$platform$ এ $name$",
+    "placeholders": {
+      "name": {
+        "content": "$1"
+      },
+      "platform": {
+        "content": "$2"
+      }
+    }
+  },
+  "attention": {
+    "message": "মনোযোগ",
+    "description": ""
+  },
+  "sendTip": {
+    "message": "টিপ পাঠান",
+    "description": ""
+  },
+  "includeInAutoContribute": {
+    "message": "স্বয়ংক্রিয়ভাবে অবদান রাখায় অন্তর্ভুক্ত করুন",
+    "description": ""
+  },
+  "monthlyContribution": {
+    "message": "মাসিক অবদান",
+    "description": ""
+  },
+  "ok": {
+    "message": "ঠিক আছে",
+    "description": ""
+  },
+  "set": {
+    "message": "সেট করুন",
+    "description": ""
+  },
+  "changeAmount": {
+    "message": "অর্থরাশি পরিবর্তন করুন",
+    "description": ""
+  },
+  "cancel": {
+    "message": "বাতিল করুন",
+    "description": ""
+  },
+  "grantCaptchaTitle": {
+    "message": "আপনি যে মানুষ তা নিশ্চিত করুন",
+    "description": ""
+  },
+  "grantCaptchaFailedTitle": {
+    "message": "হুম... ঠিক নয়। আবার চেষ্টা করুন।",
+    "description": ""
+  },
+  "grantCaptchaHint": {
+    "message": "BAT আইকনটি $hint$ লক্ষ্যে টেনে আনুন।",
+    "description": "",
+    "placeholders": {
+      "hint": {
+        "content": "$1"
+      }
+    }
+  },
+  "grantCaptchaPassedTitleUGP": {
+    "message": "আজ আপনার লাকি দিন!",
+    "description": ""
+  },
+  "grantCaptchaPassedTextUGP": {
+    "message": "আপনার টোকেন অনুমোদন হচ্ছে।",
+    "description": ""
+  },
+  "grantCaptchaAmountUGP": {
+    "message": "মুক্ত টোকেন মঞ্জুরি",
+    "description": ""
+  },
+  "grantCaptchaPassedTitleAds": {
+    "message": "আপনি একটি বিজ্ঞাপনের পুরস্কার উপার্জন করেছেন!",
+    "description": ""
+  },
+  "grantCaptchaPassedTextAds": {
+    "message": "আপনার পুরস্কারগুলি আপনার Brave পুরস্কারের ওয়ালেটে আসছে।",
+    "description": ""
+  },
+  "grantCaptchaAmountAds": {
+    "message": "আপনার পুরস্কারের অর্থরাশি",
+    "description": ""
+  },
+  "grantCaptchaExpiration": {
+    "message": "মেয়াদত্তির্ণের তারিখ মঞ্জুর করুন",
+    "description": ""
+  },
+  "grantCaptchaErrorTitle": {
+    "message": "ওহো, কিছু ভুল হয়েছে। অনুগ্রহ করে পরে আবার চেষ্টা করুন।",
+    "description": ""
+  },
+  "grantCaptchaErrorText": {
+    "message": "Brave পুরস্কারে একটি সমস্যা হচ্ছে। অনুগ্রহ করে পরে আবার চেষ্টা করুন।",
+    "description": ""
+  },
+  "walletAccountLink": {
+    "message": "আমার $provider$ অ্যাকাউন্টে যান",
+    "description": "",
+    "placeholders": {
+      "provider": {
+        "content": "$1"
+      }
+    }
+  },
+  "walletAddFunds": {
+    "message": "অর্থ যোগ করুন",
+    "description": ""
+  },
+  "walletAutoContribute": {
+    "message": "স্বতঃ-প্রদান",
+    "description": ""
+  },
+  "walletCompleteVerificationLink": {
+    "message": "যাচাইকরণ সম্পূর্ণ করতে $provider$ এ যান",
+    "description": "",
+    "placeholders": {
+      "provider": {
+        "content": "$1"
+      }
+    }
+  },
+  "walletCompleteVerificationText": {
+    "message": "পুরস্কার পেতে অনুগ্রহ করে পরিচয়ের যাচাইকরণ সম্পূর্ণ করুন।",
+    "description": ""
+  },
+  "walletDisconnected": {
+    "message": "সংযোগবিচ্ছিন্ন",
+    "description": ""
+  },
+  "walletDisconnectLink": {
+    "message": "Brave পুরষ্কারগুলি থেকে সংযোগ বিচ্ছিন্ন করুন",
+    "description": ""
+  },
+  "walletEstimatedEarnings": {
+    "message": "আনুমানিক উপার্জন",
+    "description": ""
+  },
+  "walletLogIntoYourAccount": {
+    "message": "আপনার $provider$ অ্যাকাউন্টে লগইন করুন",
+    "description": "",
+    "placeholders": {
+      "provider": {
+        "content": "$1"
+      }
+    }
+  },
+  "walletMonthlyTips": {
+    "message": "মাসিক পরামর্শ",
+    "description": ""
+  },
+  "walletMyWallet": {
+    "message": "আমার ওয়ালেট",
+    "description": ""
+  },
+  "walletOneTimeTips": {
+    "message": "একবারের দান/পরামর্শ",
+    "description": ""
+  },
+  "walletPending": {
+    "message": "বিচারাধীন রয়েছে",
+    "description": ""
+  },
+  "walletPendingRewardsText": {
+    "message": "$days$-এ $amount$ পেআউট প্রক্রিয়াকরণ শুরু করে",
+    "description": "",
+    "placeholders": {
+      "amount": {
+        "content": "$1"
+      },
+      "days": {
+        "content": "$

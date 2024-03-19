@@ -1,0 +1,6 @@
+[workspace]
+
+members = [
+	"binary_crate",
+	"lib_crate",
+]
